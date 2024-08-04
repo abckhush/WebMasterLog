@@ -106,8 +106,16 @@
 |  79   | [Captcha-Generator](./Basic/Captcha-Generator/) | ![Basic](https://img.shields.io/badge/Basic-00FF00?style=for-the-badge) |
 |  80   | [Custom-Video-Player](./Basic/Custom-Video-Player/) | ![Basic](https://img.shields.io/badge/Basic-00FF00?style=for-the-badge) |
 |  81   | [Perfect-Number-Checker](./Basic/Perfect-Number-Checker/) | ![Basic](https://img.shields.io/badge/Basic-00FF00?style=for-the-badge) |
+|  82   | [Password-Manager](./Basic/Password-Manager/) | ![Basic](https://img.shields.io/badge/Basic-00FF00?style=for-the-badge) |
+|  83   | [Wheel-Counter](./Intermediate/Wheel-Selector/) | ![Intermediate](https://img.shields.io/badge/Intermediate-FFD700?style=for-the-badge) |
+|  84   | [Book-Review-Website](./Intermediate/Book-Review-Website/) | ![Intermediate](https://img.shields.io/badge/Intermediate-FFD700?style=for-the-badge) |
+|  85   | [Lunar Cycle - Moon Phase Visibility](./Advanced/Moon-Phase-Visibility/) | ![Advanced](https://img.shields.io/badge/Advanced-FF0000?style=for-the-badge) |
+|  86   | [Paint-App](./Intermediate/Paint-App/) | ![Intermediate](https://img.shields.io/badge/Intermediate-FFD700?style=for-the-badge) |
+|  87   | [Dictionay-App](./Basic/Dictionary-App/) | ![Basic](https://img.shields.io/badge/Basic-00FF00?style=for-the-badge) |
+|  88   | [Hackathon-Tracker](./Advanced/Hackathon-Tracker/) | ![Advanced](https://img.shields.io/badge/Advanced-FF0000?style=for-the-badge) |
+|  89   | [Travel-Journal](./Intermediate/Travel-Journal/) | ![Intermediate](https://img.shields.io/badge/Intermediate-FFD700?style=for-the-badge) |
+|  90   | [Bulb-On-Off](./Basic/Bulb-On-Off/) | ![Basic](https://img.shields.io/badge/Basic-00FF00?style=for-the-badge) |
 </div>
-
 
 
 ![Line](https://github.com/Avdhesh-Varshney/WebMasterLog/assets/114330097/4b78510f-a941-45f8-a9d5-80ed0705e847)
